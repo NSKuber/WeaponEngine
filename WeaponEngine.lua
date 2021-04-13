@@ -1,3 +1,6 @@
+--The script which handles scripted firing for the Weapon Engine
+--By NSKuber
+
 --weapon : CWeaponEntity
 --player : CPlayerPuppetEntity
 --collision : CCollisionTestTool
